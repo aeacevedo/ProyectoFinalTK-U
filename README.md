@@ -3,8 +3,8 @@ Programa de cotización para la empresa de seguros TK-U realizado en JavaScript.
 Proyecto final Seguros TK-U
 ===========================
 En este documento se expone la siguiente información:
-+Nombre completo: Alejandro Ernesto Acevedo Ovando
-+Carné: 07117043
++ Nombre completo: Alejandro Ernesto Acevedo Ovando
++ Carné: 07117043
 
 Detalles del proyecto
 ---------------------
