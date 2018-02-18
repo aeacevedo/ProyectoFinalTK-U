@@ -1,8 +1,10 @@
 # ProyectoFinalTK-U
-Programa de cotización para la empresa de seguros TK-U realizado en JavaScript.
 Proyecto final Seguros TK-U
 ===========================
+Programa de cotización para la empresa de seguros TK-U realizado en JavaScript.
+
 En este documento se expone la siguiente información:
+
 + Nombre completo: Alejandro Ernesto Acevedo Ovando
 + Carné: 07117043
 
@@ -13,3 +15,8 @@ En la primera parte del proyecto se crearon las diferentes variables que se nece
 + En la segunda fase se trabajó el recargo por cónyuge, se utilizó el condicionante if else y se validaron algunas posibles formas de la respuesta "Si" posteriormente se realizaron los recargos de acuerdo a lo solicitado.
 +En la tercera fase se trabajaron los recargos por cantidad de hijos haciendo uso de un ciclo y se hicieron los recargos de acuerdo a lo solicitado.
 + Finalmente se escribieron los resultados en consola.
+
+Puntos extras
+-------------
+
+Para este proyecto no se trabajó ningún elemento de los puntos extras. Aunque me parecieron muy interesantes, al final pude concluir que aún necesito trabajar en mi habilidad de programación.
